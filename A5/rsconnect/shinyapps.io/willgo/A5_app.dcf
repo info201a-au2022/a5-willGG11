@@ -1,0 +1,14 @@
+name: A5_app
+title: A5_app
+username:
+account: willgo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7862181
+bundleId: 6619332
+url: https://willgo.shinyapps.io/A5_app/
+when: 1670657075.18479
+lastSyncTime: 1670657075.18482
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/theme.css
